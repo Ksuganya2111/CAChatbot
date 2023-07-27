@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-archery-386911",
+  "private_key_id": "ee38d8c498c13509541f379c4073836576df6759",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfojJHybgsdgeX\nDn/zrqh5S+sg1/H6AqepfzDWbDhCIflGTUuu2KwXoKrpX210QhwIHzPKok8o1H4R\nTqybJ2nH/XgoiRNHV9z5i8wNtC2AtVg8OvhJTVCitFbday8JpDlui14TzQZ12bEV\nLw3Dx9zOAoiH3okhEnB672dF5okvXTBv6KqoFXA4DxBpG/NrfwRUGp8goU9D6Pbo\ngxC9N2uGwnabpC5njhzP7OUAPACr47+jsJQ7DTO2xdX8oU7zeaf709fLMmGDl7gm\n71PCOq96KlEOMbIALhzzVXhANciz46GCgIx57eO5q+UVqWnMjYDhdArcqdIZqR5B\nyCNNNfOxAgMBAAECggEAGTFeUQu0mA5f3/GRtOdNaaiBvj2w+mgH23fva6+e6KT2\n86bdjlsIkclb9ReygkSwACzNyNQjvQmyrvrlF665LYRC6IF1kZlRY5qx7z8OZ//L\n9zlxQhREaQvKol1jii3TmIQV1Ux9PAUemCgZuoT6GRMM8VsSoNhe+Fp8SGumc9sM\n2ZWgx/K/p/VrWMZQOKcDjDsqQmZ0MUdEBhJ6em9kj6fFNPBxGKAhSyF4A6NNfuYD\ns3yGJKckovvNnhNtKp0VhcNBXqD0wpXdUArzii3vG4Jqa5w1iBlmOrQK87nBZwgb\nQgsnSG0WpwZL12FhDkQE2Mtrl79IddWU5v1r1+smVwKBgQDfgeMHbK/vkZzsoKbg\nEnvv2RLOkkyM6pMD48J7nH21HwS3kMguGvAH4+GgxzLkDQgHDsRPWb/Cxlu/Ua7F\nXA0ALZDC6/xaZKKowC8WQiSBSrOcJTL9GX+vd2AXD4+2T2hm643pEAvgTxn+4Hzt\n+dhqfnH4u1evnGGy6wlr0sI8XwKBgQC21yokHXAyWzMaSTsg4Rw49ldO6zBnv7NS\nG/5rKwRYsOPWh80L2jgRCbGhM/uKY2BO0Z26wz9Gs6e965wFZKDXLO3t3uKlqDBD\nlXVoBjHYbVzCuqLsv8xuP7xT7uEGz1qNzexF9E73nHY6/2VTsolyqA7YaOeyyp4x\nJX1n6ifJ7wKBgEcJA/vPGlecwvAd2wuqNEO1jRmkO7opr5Hz6FLbGMTg1+HznPuy\nSgln7sTnqo/6aEu98Lx7fMvNuUkkD9Tf/a3JzZF16R1dkKjrc8uyN+HzuQPuercg\nTIma+io6IuXBdSAIy3CAThX7bfqopGwKFTM7fsOb3zGMFS0FMFhZgqwnAoGAZxvD\nmgY35U3k7afqfko0PjM9XTXoYDmNCHrc6NajZtiqQ6rliQ+Qmpsa3suPyKTuBMTU\n7CN7JYXezI13uNrckTu3GXOd4MmOHi7EvNrxdRmHPBFAG761rF6o97Q4ljyM1ncQ\nDQsPFTfYvMCWBbMjK9N2O7g9IWh9+T0pEVbNBWUCgYEA0kA+ZEJ7dlSd7Pm1Xlj/\nabnp3XmMgSuCJjEUVN5UuLh4E74Lyyng71cXHldRsp9ddG3Ynt/ZutpMuga0xU9W\nkI9p2tsXb5qQadHE5CngNJXlWjLTKhjcYnxlECK2A7ueei/DzfkjpmROshSdWX6O\nJ0WJt+hTN+5HqJbsU55+B5w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "diagflow-intents@tribal-archery-386911.iam.gserviceaccount.com",
+  "client_id": "104105751147006782458",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diagflow-intents%40tribal-archery-386911.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
